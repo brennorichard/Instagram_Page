@@ -1,0 +1,1 @@
+mongoexport --uri mongodb+srv://henriqueerzinger:U9uFI3pROg9jtNU3@cluster0.d7gka.mongodb.net/myFirstDatabase --collection=users --out=users.json
